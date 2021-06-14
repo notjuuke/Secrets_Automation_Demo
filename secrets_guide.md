@@ -13,7 +13,7 @@ This will open your default browser. You should be presented with the Docker's G
 
 1. Open your terminal and enter `docker-compose version`. You should see something like `Docker Compose version 2.0.0`. 
 
-## 3. Create a Secrets Automation Integration on 1Password.com
+## 2. Create a Secrets Automation Integration on 1Password.com
 
 1. [Sign in](https://start.1password.com/signin?l=en) to your account on 1Password.com.
 2. Click `Integrations` in the sidebar, then choose **Secrets Automation**.
@@ -25,13 +25,13 @@ This will open your default browser. You should be presented with the Docker's G
 7. Click `Issue Token`.
 8. Save **both** your `Credentials File` and `Access Token` in 1Password. 
 
-## 4. Set up your local environment
+## 3. Set up your local environment
 
 1. Create a folder to store all of your project files. 
 2. Download your `1password-credentials.json` file and move it into your project folder.
 3. Download this [sample docker-compose file](https://i.1password.com/media/1password-connect/docker-compose.yaml) and move it into your project folder.
 
-## 5. Start your Docker containers
+## 4. Start your Docker containers
 
 1. Open a terminal and navigate to your project folder. Ex: `cd Documents/Secrets_Automation/`
    1. This example assumes your project folder is naemd `Secrets_Automation` and was created in your `Documents` folder.
