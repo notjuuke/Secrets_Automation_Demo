@@ -7,7 +7,7 @@
 1. Open a terminal and enter `docker run -d -p 80:80 docker/getting-started via terminal`
 2. Open the Docker app, locate `docker/getting-started`, and click the "Open in Browser" button: 
 
-![Screenshot](/images/open_browser.png)
+![Screenshot](https://user-images.githubusercontent.com/34498957/121909827-4d8f6480-ccfc-11eb-8950-30c1164fb4ce.png)
 
 This will open your default browser. You should be presented with the Docker's Getting Started documentation.
 
