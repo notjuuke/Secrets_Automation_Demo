@@ -11,7 +11,7 @@
 
 This will open your default browser. You should be presented with the Docker's Getting Started documentation.
 
-1. Open your terminal and enter `docker-compose version`. You should see something like `Docker Compose version 2.0.0`. 
+3. Open your terminal and enter `docker-compose version`. You should see something like `Docker Compose version 2.0.0`. 
 
 ## 2. Create a Secrets Automation Integration on 1Password.com
 
